@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">PersKuadrat</string>
+    <string name="nilai_a">Nilai a</string>
+    <string name="nilai_b">Nilai b</string>
+    <string name="nilai_c">Nilai c</string>
+    <string name="hitung">Hitung</string>
 </resources>
