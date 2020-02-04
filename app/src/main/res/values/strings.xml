@@ -4,4 +4,5 @@
     <string name="nilai_b">Nilai b</string>
     <string name="nilai_c">Nilai c</string>
     <string name="hitung">Hitung</string>
+    <string name="hasil">Nilai akar adalah %1s dan %2s</string>
 </resources>
